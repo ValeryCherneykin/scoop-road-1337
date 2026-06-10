@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/valerycherneykin/road-1337/releases/download/v1.0.0/road-1337_1.0.0_windows_amd64.zip",
+            "bin": [
+                "road-1337.exe"
+            ],
+            "hash": "a1c0b6e4cf9be72d58933e81284680a19b4131b95ff8462019b8108b6e620998"
+        },
+        "arm64": {
+            "url": "https://github.com/valerycherneykin/road-1337/releases/download/v1.0.0/road-1337_1.0.0_windows_arm64.zip",
+            "bin": [
+                "road-1337.exe"
+            ],
+            "hash": "0f48856e0f06dab452816e6660682856a940142b629129d423d64bf797c1c01e"
+        }
+    },
+    "homepage": "https://github.com/valerycherneykin/road-1337",
+    "license": "MIT",
+    "description": "End-to-end encrypted terminal messenger"
+}
